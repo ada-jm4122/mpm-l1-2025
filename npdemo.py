@@ -10,10 +10,10 @@ def pip2x(x):
 def pip3x(x):
     return np.pi**3+x
 
- print(pip3x(4))
+print(pip3x(4))
 
 print(pipx(4))
 
-
+2
 
 
